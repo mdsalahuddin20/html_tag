@@ -1,0 +1,35 @@
+.h1{
+	color: green;
+	font-style: italic;
+}
+#p{
+	border:1px solid;
+}
+aside{
+	width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: left;
+  font-style: italic;
+  background-color: lightgray;
+}
+article{
+	border: 1px solid;
+}
+b{
+	font-size: 40px;
+}
+video{
+	width: 50%;
+}
+#canvas{
+	width: 40%;
+	border: 5px solid darkred;
+}
+table{
+	border-collapse: collapse;
+}
+th, tr, td{
+	border: 1px solid red;
+	text-align: center ;
+}
